@@ -5,9 +5,7 @@ def parzyste(lista):
             wynik.append(liczba)
     return wynik
 
-lista1 = [2, 5, 7, 6, 11, 4, 22, 18,1,39]
+
+lista1 = [2, 5, 7, 6, 11, 4, 22, 18, 1, 39]
 wynik = parzyste(lista1)
 print(wynik)
-
-
-
