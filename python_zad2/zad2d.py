@@ -3,5 +3,5 @@ def co_drugi(lista):
         print(lista[i])
 
 
-lista1 = [2, 5, 7, 6, 11, 4, 22, 18,1,39]
+lista1 = [2, 5, 7, 6, 11, 4, 22, 18, 1, 39]
 co_drugi(lista1)
